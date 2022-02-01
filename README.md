@@ -7,39 +7,47 @@ Here use OpenGL built-in functions of straight lines (GL_LINES) and quads (GL_QU
 to define 3D House and built-in functions of translation, rotation and scaling to design transformations.
 
 User Interaction                       Effect
-Down Arrow                          Camera Moves Backward
 
-Up Arrow                            Camera Moves Forward
+Down Arrow:                          Camera Moves Backward
 
-Right Arrow                         Camera Moves Right
+Up Arrow:                            Camera Moves Forward
 
-Left Arrow                          Camera Moves Left
+Right Arrow :                        Camera Moves Right
 
-Page Up                             Camera Moves Up
+Left Arrow :                         Camera Moves Left
 
-Page Down                           Camera Moves Down
+Page Up :                            Camera Moves Up
 
-L (or l)                            House Rotates Clockwise
+Page Down :                          Camera Moves Down
 
-R (or r)                            House Rotates Anti-clockwise
+L (or l) :                           House Rotates Clockwise
 
-U (or u)                            House Scales Up (upto twice the original size)
+R (or r)  :                          House Rotates Anti-clockwise
 
-D (or d)                            House Scales Down (upto zero size)
+U (or u) :                           House Scales Up (upto twice the original size)
 
-9                                   Rotating Window Opens
+D (or d) :                           House Scales Down (upto zero size)
 
-0                                   Rotating Window Closes
+9   :                                Rotating Window Opens
 
-Home                                Sliding Door Opens
+0   :                                Rotating Window Closes
 
-End                                 Sliding Door Closes
+Home  :                              Sliding Door Opens
 
-Right Click                         Menu Bar Appears
+End  :                               Sliding Door Closes
+
+Right Click  :                       Menu Bar Appears
+
                                     Sliding Window Slides Up
+                                    
                                     Sliding Window Slides Down
+                                    
                                     Rotating Door Opens
+                                    
                                     Rotating Door Closes
+                                    
                                     The House Returns to Original Size
+                                    
                                     Exhaust Fan Spins Clockwise
+                                    
                                     Exhaust Fan Spins Anti-clockwise
