@@ -20,10 +20,15 @@ Page Up                             Camera Moves Up
 Page Down                           Camera Moves Down
 
 L (or l)                            House Rotates Clockwise
+
 R (or r)                            House Rotates Anti-clockwise
+
 U (or u)                            House Scales Up (upto twice the original size)
+
 D (or d)                            House Scales Down (upto zero size)
+
 9                                   Rotating Window Opens
+
 0                                   Rotating Window Closes
 
 Home                                Sliding Door Opens
